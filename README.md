@@ -17,3 +17,5 @@ Banuba Video Editor
 - Designed responsive UI and functionalities for high precision Video Editing App.
 - Some feats: Adding Audio with Video frames sync, trimming/spliting the video frames.
 
+### Skills
+React/React Native, Typescript, Python, MERN stack, SQL, Problem Solving, Content Creator
