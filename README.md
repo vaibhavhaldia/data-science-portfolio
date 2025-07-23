@@ -18,4 +18,10 @@ Banuba Video Editor
 - Some feats: Adding Audio with Video frames sync, trimming/spliting the video frames.
 
 ### Skills
-React/React Native, Typescript, Python, MERN stack, SQL, Problem Solving, Content Creator
+- React/React Native,
+- Typescript,
+- Python,
+- MERN stack,
+- SQL, NoSQL(mongoDB)
+- Problem Solving,
+- Content Creator
